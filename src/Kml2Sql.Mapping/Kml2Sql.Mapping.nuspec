@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Kml2Sql</id>
+    <version>$version$</version>
+    <authors>Pharylon</authors>
+    <owners>Pharylon</owners>
+    <licenseUrl>https://github.com/Pharylon/KML2SQL/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/Pharylon/kml2sql</projectUrl>
+    <iconUrl>http://pharylon.github.io/KML2SQL/images/vector_earth_planet.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An API for putting KML files into MS-SQL.</description>
+    <releaseNotes>See https://github.com/Pharylon/KML2SQL for release info.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>KML SQL</tags>
+  </metadata>
+</package>
